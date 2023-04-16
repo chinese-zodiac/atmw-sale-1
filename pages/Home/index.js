@@ -134,7 +134,7 @@ function Home() {
       <div className="hero-head has-text-left pb-5 mt-0 pt-1" style={{ position: "relative", width: "100%", backgroundColor: "#191919" }}>
         <div style={{ marginLeft: "auto", marginRight: "auto", maxWidth: "1080px" }}>
           <div className="mt-3 pb-0 mb-0" style={{ float: "left" }}>
-            <a href="https://dogegod.io">
+            <a href="https://atomicwealth.co/">
               <figure className="image is-128x128 is-rounded m-0 is-pulled-left ml-2 mr-5 mb-0" style={{ display: "inline-block", top: "2px", position: "relative" }}>
                 <img src={DggLogo} />
               </figure>
